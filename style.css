@@ -2,7 +2,7 @@
     padding: 0;}
    
     header{
-        background-color: rgb(186, 44, 215);
+        background-color: rgb(35, 26, 114);
         color: white;
         display: flex;
         justify-content: space-around;
@@ -13,4 +13,5 @@
         .cabecalho-lista-item{
         display:inline-block;
         margin: 0 20px;
-        page: 10px 0;
+        padding: 10px 0;
+        font-size:24px
